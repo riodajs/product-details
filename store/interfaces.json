@@ -16,7 +16,8 @@
       "share",
       "product-highlights",
       "product-quantity-selector",
-      "addon-details-btn"
+      "addon-details-btn",
+      "product-add-to-list-button"
     ],
     "component": "ProductDetails"
   },
